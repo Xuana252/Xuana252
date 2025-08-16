@@ -62,6 +62,13 @@ My main goal is to grow as a **Front-End Developer**, building modern, responsiv
 ### 📊 GitHub Stats
 ![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuana252&show_icons=true&theme=radical)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xuana252&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuana252&layout=compact&theme=react" height="165" />
+</p>
+
 ### 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Xuana252&theme=radical)](https://git.io/streak-stats)
 
