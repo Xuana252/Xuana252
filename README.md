@@ -25,13 +25,13 @@
 ![Express.js](https://img.shields.io/badge/-Express-lightgrey?logo=express)
 
 ### 🔐 Authentication
-![Auth.js](https://img.shields.io/badge/-Auth.js-black?logo=auth0)
+![Auth.js](https://img.shields.io/badge/-NextAuth.js-black?logo=nextdotjs)
 ![JWT](https://img.shields.io/badge/-JWT-purple?logo=jsonwebtokens)
 
 ### 🗂️ State Management
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
 ![Zustand](https://img.shields.io/badge/-Zustand-black?logo=react)
-![MobX](https://img.shields.io/badge/-MobX-orange?logo=mobx)
+
 
 ### 🗄️ Databases & ORM
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
