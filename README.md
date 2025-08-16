@@ -25,7 +25,7 @@
 ![Express.js](https://img.shields.io/badge/-Express-lightgrey?logo=express)
 
 ### 🔐 Authentication
-![Auth.js](https://img.shields.io/badge/-NextAuth.js-black?logo=nextdotjs)
+![Auth.js](https://img.shields.io/badge/-Auth.js-black?logo=nextdotjs)
 ![JWT](https://img.shields.io/badge/-JWT-purple?logo=jsonwebtokens)
 
 ### 🗂️ State Management
