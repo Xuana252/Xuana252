@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./image.png" width="400" />
+  <img src="./image.png"  style="aspect:1/1; width: 120px"/>
 </p>
 
 ## 👋 Hi there!!! I'm Lê Nguyễn Đông Xuân
