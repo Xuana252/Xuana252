@@ -6,6 +6,10 @@
 
 ## 👋 Hi there!!! I'm Lê Nguyễn Đông Xuân
 
+## 🎓 Education
+Bachelor, Software Engineer (Sep 2022 - Expected: August 2026)
+University of Information Technology - Vietnam National University, Ho Chi Minh City (UIT-VNUHCM)
+
 ## 🎯 Goal 
 My main goal is to grow as a **Front-End Developer**, building modern, responsive, and user-friendly applications.  
 
