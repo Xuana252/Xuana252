@@ -1,7 +1,15 @@
-![Profile Banner](./image.png)
 
-# 👋 Hi, I'm Le Nguyen Dong Xuan
 
+<table>
+  <tr>
+    <td>
+     👋 Hi, I'm Le Nguyen Dong Xuan
+    </td>
+    <td>
+      <img src="https://your-image-link.png" alt="profile photo" width="120" style="border-radius:50%;" />
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Goal
 My main goal is to grow as a **Front-End Developer**, building modern, responsive, and user-friendly applications.  
