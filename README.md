@@ -1,4 +1,4 @@
-![Profile Banner](./assets/profile.png)
+![Profile Banner](./image.png)
 
 # 👋 Hi, I'm Le Nguyen Dong Xuan
 
