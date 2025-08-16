@@ -14,9 +14,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuana252&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xuana252&theme=radical)](https://git.io/streak-stats)
