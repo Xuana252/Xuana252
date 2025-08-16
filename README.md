@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Le Nguyen Dong Xuan
 
 - 🚀 Full-stack developer passionate about building scalable web apps.  
-- 🌌 Currently working on **Le-Gallerie** (a social media platform) and a **3D Solar System visualization**.  
 - 💡 Love working with **Angular, React, React Native and Vue** for front-end development.  
+
+## 🎯 Goal
+My main goal is to grow as a **Front-End Developer**, building modern, responsive, and user-friendly applications.  
+I’m especially passionate about **React, Next.js, and state management tools**, and I aim to deepen my expertise while contributing to open-source projects and real-world applications.
 
 ---
 
