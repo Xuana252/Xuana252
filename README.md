@@ -1,16 +1,10 @@
 
 
-<table>
-  <tr>
-    <td>
-     👋 Hi, I'm Le Nguyen Dong Xuan
-    </td>
-    <td>
-      <img src="./image.png" alt="profile photo" width="120" style="border-radius:50%;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
+## 👋 Hi there!!! I'm Lê Nguyễn Đông Xuân
 ## 🎯 Goal
 My main goal is to grow as a **Front-End Developer**, building modern, responsive, and user-friendly applications.  
 
