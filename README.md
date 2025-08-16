@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./image.png"  style="aspect:1/1; width: 120px; border-radius: 50%; overflow: hidden; background-color: white"/>
+  <img src="./image.png"  style="width:120px;aspect-ratio:1/1; border-radius:50%; object-fit: cover"/>
 </p>
 
 ## 👋 Hi there!!! I'm Lê Nguyễn Đông Xuân
