@@ -1,11 +1,12 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="./image.png" width="400" />
 </p>
 
 ## 👋 Hi there!!! I'm Lê Nguyễn Đông Xuân
-## 🎯 Goal
+
+## 🎯 Goal 
 My main goal is to grow as a **Front-End Developer**, building modern, responsive, and user-friendly applications.  
 
 ---
