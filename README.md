@@ -6,7 +6,7 @@
      👋 Hi, I'm Le Nguyen Dong Xuan
     </td>
     <td>
-      <img src="https://your-image-link.png" alt="profile photo" width="120" style="border-radius:50%;" />
+      <img src="./image.png" alt="profile photo" width="120" style="border-radius:50%;" />
     </td>
   </tr>
 </table>
