@@ -21,8 +21,8 @@ My main goal is to grow as a **Front-End Developer**, building modern, responsiv
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
-![C#](https://img.shields.io/badge/-C%23-purple?logo=csharp)
-![Java](https://img.shields.io/badge/-Java-red?logo=java)
+![C#](https://img.shields.io/badge/-C%23-purple?logo=cs)
+![Java](https://img.shields.io/badge/-Java-red?logo=java-light)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin)
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
