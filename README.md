@@ -30,10 +30,10 @@ My main goal is to grow as a **Front-End Developer**, building modern, responsiv
 ### ⚡ Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Vue](https://img.shields.io/badge/-Vue-green?logo=vue.js)
+![Vue](https://img.shields.io/badge/-Vue-darkgreen?logo=vue.js)
 ![React Native](https://img.shields.io/badge/-React--Native-blue?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-darkgreen?logo=nuxt.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-darkgreen?logo=nuxt)
 ![Express.js](https://img.shields.io/badge/-Express-lightgrey?logo=express)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-cyan?logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
