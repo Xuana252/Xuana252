@@ -11,7 +11,7 @@
 
 
 ## ✉️ Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/xuan-le-4b7b19335))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuan-le-4b7b19335)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xuanlnd252@gmail.com)
 
 ## 🎓 Education
