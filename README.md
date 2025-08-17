@@ -7,7 +7,7 @@
 ## 👋 Hi there!!! I'm Lê Nguyễn Đông Xuân
 
 ## My Resume
-[![Resume](https://img.shields.io/badge/Resume-8A2BE2?logo=readme&logoColor=white)](./xuanlnd252@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-8A2BE2?logo=readme&logoColor=white)](./xuanlnd252@gmail.com.pdf)
 
 
 ## ✉️ Contact
