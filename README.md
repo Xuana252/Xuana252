@@ -35,6 +35,8 @@ My main goal is to grow as a **Front-End Developer**, building modern, responsiv
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-darkgreen?logo=nuxt.js)
 ![Express.js](https://img.shields.io/badge/-Express-lightgrey?logo=express)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-cyan?logo=tailwindcss)
+![Boostrap](https://img.shields.io/badge/-Boostrap-purple?logo=boostrap)
 
 ### 🔐 Authentication
 ![Auth.js](https://img.shields.io/badge/-Auth.js-black?logo=nextdotjs)
