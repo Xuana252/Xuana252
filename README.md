@@ -57,7 +57,7 @@ My main goal is to grow as a **Front-End Developer**, building modern, responsiv
 
 ### 🗄️ Databases & ORM
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?logo=microsoftsqlserver)
 ![Prisma](https://img.shields.io/badge/-Prisma-darkblue?logo=prisma)
 
