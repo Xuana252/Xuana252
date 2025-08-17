@@ -64,7 +64,7 @@ My main goal is to grow as a **Front-End Developer**, building modern, responsiv
 ### ☁️ Backend & Cloud
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?logo=firebase)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-pink?logo=appwrite)
-![Supabase](https://img.shields.io/badge/-Supabase-black?logo=supabase)
+![Supabase](https://img.shields.io/badge/-Supabase-darkgray?logo=supabase)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 
 ---
