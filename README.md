@@ -6,6 +6,14 @@
 
 ## 👋 Hi there!!! I'm Lê Nguyễn Đông Xuân
 
+## My Resume
+[![Resume](https://img.shields.io/badge/Resume-8A2BE2?logo=readme&logoColor=white)](https://your-resume-link.com)
+
+
+## ✉️ Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/xuan-le-4b7b19335))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xuanlnd252@gmail.com)
+
 ## 🎓 Education
 ![Degree](https://img.shields.io/badge/Bachelor-Software%20Engineering-blue)
 
