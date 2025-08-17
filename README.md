@@ -25,7 +25,7 @@ My main goal is to grow as a **Front-End Developer**, building modern, responsiv
 ![Java](https://img.shields.io/badge/-Java-red?logo=java-light)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin)
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css)
 
 ### ⚡ Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
